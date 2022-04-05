@@ -1,0 +1,6 @@
+4
+0;Class 1;Indian;100;26.12
+1;Class 2;Italian;6;01.01
+2;Class 3;Cuban;40;17.01
+3;Class 4;American;5;22.09
+

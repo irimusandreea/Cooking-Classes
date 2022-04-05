@@ -1,0 +1,6 @@
+4
+0;Ioana M;0763336555;Manastur;Class 4
+1;Pop Ana;0723444777;Floresti;Class 3
+2;Iulia H;0754271189;Alba-Iulia;Class 2
+3;Eusebiu C;0754443322;Baia Mare;Class 1
+
